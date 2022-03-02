@@ -1,11 +1,12 @@
 # Python-Tutorial
 Python tutorial provides basic and advanced concepts of Python. Our Python tutorial is designed for beginners and professionals.
 
-![image](https://user-images.githubusercontent.com/66740565/156386775-a016640a-73bf-4ec2-92ea-6023ef129bb7.png)
+![image](https://user-images.githubusercontent.com/66740565/156387039-3999ddf4-3ba1-4e0c-ba28-7d46cc0683ad.png)
 
 
-What is Python
-Python is a general purpose, dynamic, high-level, and interpreted programming language. It supports Object Oriented programming approach to develop applications. It is simple and easy to learn and provides lots of high-level data structures.
+## What is Python? 
+
+### Python is a general purpose, dynamic, high-level, and interpreted programming language. It supports Object Oriented programming approach to develop applications. It is simple and easy to learn and provides lots of high-level data structures.
 
 Python is easy to learn yet powerful and versatile scripting language, which makes it attractive for Application Development.
 
